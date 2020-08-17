@@ -1,0 +1,11 @@
+int count=0;
+if(input1!=0 && Math.abs(input1)%2!=0){count+=1;}
+if(input2!=0 && Math.abs(input2)%2!=0){count+=1;}
+if(input3!=0 && Math.abs(input3)%2!=0){count+=1;}
+if(input4!=0 && Math.abs(input4)%2!=0){count+=1;}
+if(input5!=0 && Math.abs(input5)%2!=0){count+=1;}
+return count;
+
+
+
+Link to pratice : https://tests.mettl.com/test-window/67147bd5
